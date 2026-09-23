@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Source\\TDI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|solutionrelative:Source\\TDI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|solutionrelative:Include\\C_Image.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02FB1A3C-BD8F-4E04-99D0-673986CF32E9}|TDI\\TDI.vcxproj|solutionrelative:Include\\C_Matrix.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TDI.cpp",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Source\\TDI.cpp",
+              "RelativeDocumentMoniker": "Source\\TDI.cpp",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Source\\TDI.cpp",
+              "RelativeToolTip": "Source\\TDI.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAhwFAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T17:05:19.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_Matrix.hpp",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Matrix.hpp",
+              "RelativeDocumentMoniker": "Include\\C_Matrix.hpp",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Matrix.hpp",
+              "RelativeToolTip": "Include\\C_Matrix.hpp",
+              "ViewState": "AgIAAG0AAAAAAAAAAAD4v3oAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-25T13:51:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C_Image.hpp",
+              "DocumentMoniker": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Image.hpp",
+              "RelativeDocumentMoniker": "Include\\C_Image.hpp",
+              "ToolTip": "C:\\Users\\rodri\\Desktop\\TDI\\practicaTDI\\Include\\C_Image.hpp",
+              "RelativeToolTip": "Include\\C_Image.hpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-25T13:50:54.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

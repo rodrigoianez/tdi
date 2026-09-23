@@ -1,0 +1,12 @@
+﻿  TDI.cpp
+C:\Users\rodri\Desktop\TDI\practicaTDI\Source\TDI.cpp(209,22): warning C4566: el carácter representado por el nombre de carácter universal '\u2696' no se puede representar en la página de códigos actual (1252)
+C:\Users\rodri\Desktop\TDI\practicaTDI\Source\TDI.cpp(209,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+IMtdi_VS2022_Debug.lib(C_Matrix.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Matrix.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Image.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Image.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Trace.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Trace.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_File.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_File.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Arguments.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Arguments.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_General.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_General.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_Memory.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_Memory.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+IMtdi_VS2022_Debug.lib(C_String.obj) : warning LNK4099: no se encontró PDB '' con 'IMtdi_VS2022_Debug.lib(C_String.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  TDI.vcxproj -> C:\Users\rodri\Desktop\TDI\practicaTDI\x64\Debug\TDI.exe
